@@ -4,7 +4,7 @@
 ---
 
 ## ✉️ Email
-- ✉️ fubao1224@gmail.com
+- ✉️ `fubao1224@gmail.com`
 
 ---
 
