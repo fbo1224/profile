@@ -1,10 +1,10 @@
 <!-- ================= HEADER ================= -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=150&section=header&text=Backend%20Developer%20DongHyuk&fontSize=50&fontColor=FFFFFF&animation=twinkle)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=250&section=header&text=Backend%20Developer%20DongHyuk&fontSize=40&fontColor=FFFFFF&animation=twinkle)
 
 ---
 
 ## ✉️ Email
-- ✉️ your.email@example.com
+- ✉️ fubao1224@gmail.com
 
 ---
 
@@ -25,4 +25,4 @@
 ---
 
 <!-- ================= FOOTER ================= -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFFFFF&animation=twinkle)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontColor=FFFFFF&animation=twinkle)
