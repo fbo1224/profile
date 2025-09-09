@@ -25,4 +25,4 @@
 ---
 
 <!-- ================= FOOTER ================= -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontColor=FFFFFF&animation=twinkle)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=150&section=footer)
